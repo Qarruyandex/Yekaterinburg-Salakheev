@@ -1,0 +1,11 @@
+berry 32
+blackberry 123
+cashew 500
+cherry 232
+grape 351
+grapefruit 258
+lemon 25
+lime 30
+melon 200
+orange 150
+peach 40
