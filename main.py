@@ -1,4 +1,14 @@
-for x in range(0, 2):
-    for y in range(0, 2):
-        for z in range(0, 2):
-            print((x <= z) and (y <= x))
+def my_superfunction():
+    print('What an awesome print!')
+
+
+def main():
+    print('My first git program')
+    print('And I change it every day')
+    print('Again')
+    print('UFO came and added this line')
+    my_superfunction()
+
+
+if __name__ == '__main__':
+    main()
